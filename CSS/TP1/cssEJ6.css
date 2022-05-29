@@ -1,0 +1,4 @@
+.parrafoPar{
+    font-style: italic;
+    /*Le agrego como pide en el ej 5, negrita a los parrafos que esten en italic*/
+    font-weight: bold;
